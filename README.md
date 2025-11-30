@@ -34,7 +34,7 @@
 
 ## 🏫 Ho Chi Minh City University of Technology (HCMUT)
 
-![HCMUT Logo](https://upload.wikimedia.org/wikipedia/vi/thumb/6/6c/Logo_Đại_học_Bách_khoa_Thành_phố_Hồ_Chí_Minh.svg/1200px-Logo_Đại_học_Bách_khoa_Thành_phố_Hồ_Chí_Minh.svg.png)
+![HCMUT Logo]([https://upload.wikimedia.org/wikipedia/vi/thumb/6/6c/Logo_Đại_học_Bách_khoa_Thành_phố_Hồ_Chí_Minh.svg/1200px-Logo_Đại_học_Bách_khoa_Thành_phố_Hồ_Chí_Minh.svg.png](https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:HCMUT_official_logo.png)
 
 **Ho Chi Minh City University of Technology**  
 268 Ly Thuong Kiet Street, District 10, Ho Chi Minh City, Vietnam
